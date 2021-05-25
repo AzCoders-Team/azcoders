@@ -1,0 +1,139 @@
+.team{
+  position:static;
+  margin-top: 110px;
+  background-color: rgba(51, 51, 51, 0.5);
+  height: 100%;
+}
+
+/* Badges */
+
+.links{
+  position: relative;
+  top: 13px;
+  left : 61px;
+}
+
+.links img{
+  width: 40px;
+  height: 40px;
+}
+
+
+/* Huseyn */
+
+.huseyn img{
+  margin-left: 21px;
+  top: 158px;
+  position: relative;
+}
+
+
+.huseyn h1{
+  position: relative;
+  left: 343px;
+  bottom: 285px;
+  font-size: 30px;
+  color: #99e9f2;
+}
+
+.huseyn h2{
+  position: relative;
+  left: 339px;
+  bottom: 261px;
+  font-size: 20px;
+  color: #99e9f2;
+  font-family: Brush Script MT;
+}
+
+
+.huseyn p{
+  position: relative;
+  left: 345px;
+  bottom: 239px;
+  font-size: 20px;
+  color: white;
+  font-family: Times New Roman;
+}
+
+/* Nihat */
+
+
+.nihat{
+  position: relative;
+  bottom: 180px;
+}
+
+.nihat img{
+  margin-left: 21px;
+  top: 236px;
+  position: relative;
+}
+
+
+.nihat h1{
+  position: relative;
+  left: 343px;
+  bottom: 285px;
+  font-size: 30px;
+  color: #99e9f2;
+}
+
+.nihat h2{
+  position: relative;
+  left: 21px;
+  bottom: 261px;
+  font-size: 22px;
+  color: #99e9f2;
+  font-family: Brush Script MT;
+}
+
+
+.nihat p{
+  position: relative;
+  left: 345px;
+  bottom: 221px;
+  font-size: 20px;
+  color: white;
+  font-family: Times New Roman;
+}
+
+/* Alkim */
+
+.alkim{
+  position: relative;
+  bottom: 349px;
+}
+
+.alkim img{
+  margin-left: 21px;
+  top: 158px;
+  position: relative;
+}
+
+
+.alkim h1{
+  position: relative;
+  left: 343px;
+  bottom: 285px;
+  font-size: 30px;
+  color: #99e9f2;
+}
+
+.alkim h2{
+  position: relative;
+  left: 345px;
+  bottom: 261px;
+  font-size: 22px;
+  color: #99e9f2;
+  font-family: Brush Script MT;
+}
+
+
+.alkim p{
+  position: relative;
+  left: 345px;
+  bottom: 239px;
+  font-size: 20px;
+  color: white;
+  font-family: Times New Roman;
+}

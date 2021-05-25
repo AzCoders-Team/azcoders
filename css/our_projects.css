@@ -1,0 +1,105 @@
+.background {
+  position:relative;
+  margin-top: 110px;
+  background-color: rgba(51, 51, 51, 0.5);
+  height: 3040px;
+}
+
+img{
+  border-radius: 10%;
+}
+
+.articles{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width:900px;
+
+  left: 195px;
+  position: relative;
+}
+
+/* Hour_of_code */
+
+.hour-of-code p{
+  /*position: relative;
+  left: 345px;
+  top: 50px;
+  */
+  font-size: 20px;
+  color: white;
+  font-family: 'Times New Roman';
+  text-align: justify;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.hour-of-code h1{
+  /*
+  margin-left: 556px;
+  */
+  margin-bottom: 39px;
+
+  letter-spacing: 2px;
+  font-family: 'Times New Roman';
+  font-size: 35px;
+  color: #99e9f2;
+}
+
+
+
+.hour-of-code iframe{
+  /*
+  position: relative;
+  top: 77px;
+  left: 365px;
+  */
+  width: 900px;
+  height: 400px;
+}
+
+
+
+/* Website */
+
+
+.website h1{
+  /*margin-left: 487px;*/
+  margin-bottom: 39px;
+  letter-spacing: 2px;
+  font-family: 'Times New Roman';
+  font-size: 35px;
+  color: #99e9f2;
+  /*position: relative;*/
+  /*! top: 145px; */
+  margin-top: 103px;
+}
+
+
+.website img{
+  /*position: relative;*/
+  top: 133px;
+}
+
+.website p{
+    /*position: relative;*/
+  /*left: 258px;*/
+  /*top: 185px;*/
+  font-size: 20px;
+  color: white;
+  font-family: 'Times New Roman';
+  text-align: justify;
+
+
+    margin-top: 30px;
+}
+
+/* Slideshow */
+
+.slideshow-pic{
+  width: 900px;
+    /*position: relative;*/
+  /*left: 227px;*/
+  /*height: 400px;*/
+}
